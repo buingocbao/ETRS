@@ -1,0 +1,99 @@
+/* 
+  Localizable.strings
+  ETRS
+
+  Created by BBaoBao on 9/10/15.
+  Copyright (c) 2015 buingocbao. All rights reserved.
+*/
+
+//App Delegate
+enter_no_network = "会社へようこそ。お使いのデバイスは、任意のネットワークに接続されていません。その後、接続するクライアントアプリケーションにより手動で記録を作成してみてください。 ありがとう。";
+enter_checkin_successfully = "首尾よくあなたのためにチェックイン。良い作業一日を、";
+
+//Alert Button
+ok = "はい";
+cancel = "まあ、おかげで";
+success = "サクセス";
+error = "エラー";
+
+//Login screen
+account = "アカウント";
+password = "パスワード";
+login = "ログイン";
+forgot = "パスワードをお忘れですか？";
+invalid = "無効";
+error_UUID_not_match = "ログイン処理を行って、デバイスは、このアカウントには一致しません。";
+error_admin_login = "管理者は、クライアントアプリケーションにログインすることはできません。あなたの従業員のアカウントを使用してください。";
+error_login_fail = "ログインに失敗しました。あなたのアカウントを確認してください]と[パスワード再試行してください。";
+invalid_acc_empty = "アカウントを空にすることはできません";
+invalid_pass_empty = "パスワードを空にすることはできません";
+invalid_pass_greater = "パスワードは6より大きい文字でなければなりません";
+missing = "ショート";
+missing_mess = "アカウントのテキストフィールドを記入してください。";
+pass_reset = "パスワードのリセット";
+pass_reset_mess = "あなたのパスワードをリセットする方法についての情報を含む電子メールが送信されました ";
+
+//Time Record screen
+check = "食い止める";
+status = "状態";
+have_no_record_message = "今日はすべてのレコードをしませんでした。あなたは今でチェックしますか？";
+success_check_in = "あなたは成功したレコードにチェックしました。作業ハッピー！";
+error_check_in = "何かの間違ったことが起こりました。管理者にこのエラーを報告してください：";
+have_checkin_no_checkout_message1 = "レコード内のあなたのチェックは本日、次のとおりです: ";
+have_checkin_no_checkout_message2 = "。\nあなたは、レコードをチェックアウトしたいと思いますか？";
+have_checkin_and_checkout_message1 = "レコード内のあなたのチェックは本日、次のとおりです: ";
+have_checkin_and_checkout_message2 = ", 記録され、今日チェックアウト：";
+have_checkin_and_checkout_message3 = ".\nあなたが何か問題がある場合は、上司またはレポートするには、管理者に連絡してください。";
+
+success_check_out = "あなたは成功したレコードをチェックしてくださいました。またお会いしましょう！";
+
+//Day - Month
+monday = "月曜";
+tuesday = "火曜日";
+wednesday = "水曜日";
+thursday = "木曜日";
+friday = "金曜日";
+saturday = "土曜日";
+sunday = "日曜日";
+
+january = "1月";
+february = "2月";
+march = "3月";
+april = "4月";
+may = "5月";
+june = "6月";
+july = "7月";
+august = "8月";
+september = "9月";
+october = "10月";
+november = "11月";
+december = "12月";
+
+//Records Info Screens
+records_info = "レコード情報";
+
+//Month Picker Screen
+month_header_label = "月間";
+month_description_label = "お時間の記録情報を表示する月を選択";
+
+//Year Picker Screen
+year_header_label = "年間";
+year_description_label = "あなたの時間のレコード情報を表示するための年を選択";
+
+//Profile screen
+fullname = "フルネーム";
+group = "グループ";
+supervisor = "監督";
+email_verified = "メール確認済み";
+swipe_left_to_change = "スワイプ変更し、左";
+edit = "編集";
+log_out = "ログアウト";
+swipe_left_to = "スワイプに委ね";
+
+//Change Password Screen
+new_password = "新しいパスワード";
+confirm_password = "パスワードを認証する";
+save = "セーブ";
+changed_pass_success = "正常にパスワードを変更しました。もう一度ログインしてください。";
+language = "言語";
+changed_language_success = "正常に変更された言語。あなたは、ホーム・ページに導かれるでしょう。";

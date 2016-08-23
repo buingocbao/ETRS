@@ -1,0 +1,99 @@
+/* 
+  Localizable.strings
+  ETRS
+
+  Created by BBaoBao on 9/10/15.
+  Copyright (c) 2015 buingocbao. All rights reserved.
+*/
+
+//App Delegate
+enter_no_network = "Chào mừng đến với công ty. Thiết bị của bạn không được kết nối đến bất kì mạng nào. Hãy thử kết nối sau đó thực hiện chấm công thủ công bằng ứng dụng Client. Cảm ơn.";
+enter_checkin_successfully = "Chấm công vào thành công. Chúc bạn có một ngày làm việc tốt lành,";
+
+//Alert Button
+ok = "Vâng";
+cancel = "Không, cảm ơn";
+success = "Thành công";
+error = "Lỗi";
+
+//Login screen
+account = "Tài khoản";
+password = "Mật khẩu";
+login = "Đăng nhập";
+forgot = "Quên mật khẩu?";
+invalid = "Vô hiệu";
+error_UUID_not_match = "Thiết bị đang thực hiện đăng nhập không trùng khớp với tài khoản.";
+error_admin_login = "Quản trị viên không thể đăng nhập vào Client Application. Hãy sử dụng tài khoản của nhân viên.";
+error_login_fail = "Đăng nhập thất bại. Hãy kiểm tra Tài khoản và Mật khẩu, sau đó thử lại.";
+invalid_acc_empty = "Tài khoản không thể để trống";
+invalid_pass_empty = "Mật khẩu không thể để trống";
+invalid_pass_greater = "Mật khẩu phải lớn hơn 6 kí tự";
+missing = "Thiếu";
+missing_mess = "Xin hãy điền email vào ô tài khoản.";
+pass_reset = "Đặt lại mật khẩu";
+pass_reset_mess = "Một email bao gồm thông tin để đặt lại mật khẩu đã được gửi đến ";
+
+//Time Record screen
+check = "KIỂM TRA";
+status = "Trạng thái";
+have_no_record_message = "Bạn không có bản ghi thời gian nào trong ngày hôm nay. Bạn có muốn thực hiện chấm công vào bây giờ không?";
+success_check_in = "Bạn đã chấm công vào thành công. Chúc ngày làm việc tốt lành!";
+error_check_in = "Một vài lỗi đã xảy ra. Xin hãy báo cáo lỗi này đến quản trị viên: ";
+have_checkin_no_checkout_message1 = "Bản ghi chấm công vào của bạn hôm nay lúc: ";
+have_checkin_no_checkout_message2 = ".\nBạn có muốn chấm công ra không?";
+have_checkin_and_checkout_message1 = "Bản ghi chấm công vào của bạn hôm nay lúc: ";
+have_checkin_and_checkout_message2 = ", và bản ghi chấm công ra của bạn hôm nay lúc: ";
+have_checkin_and_checkout_message3 = ".\nNếu bạn có vấn đề gì, xin hãy liên hệ tới quản lý hoặc quản trị viên để báo cáo.";
+
+success_check_out = "Bạn đã chấm công ra thành công. Hẹn gặp lại!";
+
+//Day - Month
+monday = "Thứ hai";
+tuesday = "Thứ ba";
+wednesday = "Thứ tư";
+thursday = "Thứ năm";
+friday = "Thứ sáu";
+saturday = "Thứ bảy";
+sunday = "Chủ Nhật";
+
+january = "Tháng 1";
+february = "Tháng 2";
+march = "Tháng 3";
+april = "Tháng 4";
+may = "Tháng 5";
+june = "Tháng 6";
+july = "Tháng 7";
+august = "Tháng 8";
+september = "Tháng 9";
+october = "Tháng 10";
+november = "Tháng 11";
+december = "Tháng 12";
+
+//Records Info Screens
+records_info = "Thông tin chấm công";
+
+//Month Picker Screen
+month_header_label = "Tháng";
+month_description_label = "Chọn một tháng mà bạn muốn xem bản ghi chấm công";
+
+//Year Picker Screen
+year_header_label = "Năm";
+year_description_label = "Chọn một năm mà bạn muốn xem bản ghi chấm công";
+
+//Profile screen
+fullname = "Họ tên";
+group = "Nhóm";
+supervisor = "Giám sát viên";
+email_verified = "Xác thực thư điện tử";
+swipe_left_to_change = "Vuốt sang trái để thay đổi";
+edit = "Sửa";
+log_out = "Thoát";
+swipe_left_to = "Vuốt sang trái để";
+
+//Change Password Screen
+new_password = "Mật khẩu mới";
+confirm_password = "Xác nhận mật khẩu";
+save = "Lưu";
+changed_pass_success = "Đã đổi mật khẩu thành công. Hãy đăng nhập lại.";
+language = "Ngôn ngữ";
+changed_language_success = "Đã đổi ngôn ngữ thành công. Bạn sẽ được đưa đến màn hình chấm công.";

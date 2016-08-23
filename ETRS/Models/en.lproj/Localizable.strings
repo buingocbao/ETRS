@@ -1,0 +1,100 @@
+/* 
+  Localizable.strings
+  ETRS
+
+  Created by BBaoBao on 9/10/15.
+  Copyright (c) 2015 buingocbao. All rights reserved.
+*/
+
+//App Delegate
+enter_no_network = "Welcome to company. Your device isn't connected to any network. Please try to connect then make your record manually by Client application. Thank you.";
+enter_checkin_successfully = "Successfully checked in for you. Have a good working day,";
+
+//Alert Button
+ok = "Ok";
+cancel = "No, thanks";
+success = "Success";
+error = "Error";
+
+//Login screen
+account = "Account";
+password = "Password";
+login = "Login";
+forgot = "Forgot Password?";
+invalid = "Invalid";
+error_UUID_not_match = "Device doing login process is not matched to this account.";
+error_admin_login = "Admin cannot login to Client Application. Please use your employee account.";
+error_login_fail = "Login failed. Please check your Account and Password then try again.";
+invalid_acc_empty = "Account cannot be empty";
+invalid_pass_empty = "Password cannot be empty";
+invalid_pass_greater = "Password must be greater than 6 characters";
+missing = "Missing";
+missing_mess = "Please fill account text field.";
+pass_reset = "Password Reset";
+pass_reset_mess = "An email containing information on how to reset your password has been sent to ";
+
+
+//Time Record screen
+check = "CHECK";
+status = "Status";
+have_no_record_message = "You didn't make any record today. Would you like to check in right now?";
+success_check_in = "You made check in record successfully. Happy working!";
+error_check_in = "Something's wrong happened. Please report this error to admin: ";
+have_checkin_no_checkout_message1 = "Your check in record today is: ";
+have_checkin_no_checkout_message2 = ".\nWould you like to make check out record?";
+have_checkin_and_checkout_message1 = "Your check in record today is: ";
+have_checkin_and_checkout_message2 = ", and check out record today is: ";
+have_checkin_and_checkout_message3 = ".\nIf you have any problem, please contact to your manager or administrator to report.";
+
+success_check_out = "You made check out record successfully. See you again!";
+
+//Day - Month
+monday = "Monday";
+tuesday = "Tuesday";
+wednesday = "Wednesday";
+thursday = "Thursday";
+friday = "Friday";
+saturday = "Saturday";
+sunday = "Sunday";
+
+january = "January";
+february = "February";
+march = "March";
+april = "April";
+may = "May";
+june = "June";
+july = "July";
+august = "August";
+september = "September";
+october = "October";
+november = "November";
+december = "December";
+
+//Records Info Screen
+records_info = "Records Information";
+
+//Month Picker Screen
+month_header_label = "Month";
+month_description_label = "Select a month for displaying your time record information";
+
+//Year Picker Screen
+year_header_label = "Year";
+year_description_label = "Select a year for displaying your time record information";
+
+//Profile screen
+fullname = "Full name";
+group = "Group";
+supervisor = "Supervisor";
+email_verified = "Email Verified";
+swipe_left_to_change = "Swipe left to change your";
+edit = "Edit";
+log_out = "Log out";
+swipe_left_to = "Swipe left to";
+
+//Change Password Screen
+new_password = "New Password";
+confirm_password = "Confirm Password";
+save = "Save";
+changed_pass_success = "Changed password successfully. Please log in again.";
+language = "Language";
+changed_language_success = "Changed language successfully. You'll be led to home page.";
